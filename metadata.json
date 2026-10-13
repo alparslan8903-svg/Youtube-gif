@@ -1,0 +1,6 @@
+{
+  "name": "YouTube GIF Asistanı",
+  "description": "YouTube yorumları ve canlı sohbetler için pencere modunda çalışan hızlı GIF ve ASCII animasyon asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

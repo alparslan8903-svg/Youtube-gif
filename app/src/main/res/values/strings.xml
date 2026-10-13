@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YouTube GIF Asistanı</string>
+    <string name="tab_all">Tümü</string>
+    <string name="tab_reactions">Reaksiyon</string>
+    <string name="tab_gaming">Gaming</string>
+    <string name="tab_meme">Meme</string>
+    <string name="tab_ascii">Metin &amp; ASCII</string>
+    <string name="tab_favorites">Favoriler</string>
+    <string name="search_placeholder">GIF veya tepki ara…</string>
+    <string name="copy_yt_comment">Yorum Formatında Kopyala</string>
+    <string name="copy_direct_link">GIF Linkini Kopyala</string>
+    <string name="copy_live_chat">Canlı Sohbet Formatı</string>
+    <string name="copied_toast">Kopyalandı! YouTube yorumuna yapıştırabilirsiniz.</string>
+    <string name="floating_mode">Pencere Modu (PiP)</string>
+    <string name="custom_gif_dialog_title">Özel GIF Ekle</string>
+</resources>
